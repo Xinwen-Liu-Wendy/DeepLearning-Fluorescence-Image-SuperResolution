@@ -23,6 +23,7 @@ The codes for the three models are in the ./Code folder. Each model has its own 
 ## Performance
 **Qualitative performance:**. <br>
 Some representative output images of all three models are listed below. It can be observed that compared with the low resolution (LR) image, the resolutions of output images in all three models are improved. Compared with the high resolution (HR) image, it can be seen that the out images from SRGAN model have the highest similarity in terms of both resolution and intensity distribution. <br>
+<br>
 <img src="./image_sr_fluo.png" alt="alt text" width="1000" height="200"> <br>
 **Quantitative performance:**. <br>
 For quantitative performance evaluation, our results supports LPIPS as the best evaluation metric to match human perception, at least for this application. <br>
