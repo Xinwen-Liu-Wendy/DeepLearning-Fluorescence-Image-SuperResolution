@@ -12,7 +12,7 @@ Three models were built and compared for this dataset using PyTorch, including E
 EDSR (B. Lim, S. Son, H. Kim, S. Nah, K.M. Lee, Enhanced Deep Residual Network for Single Image Super-Resolution, CVPR 2017,  arXiv:1707.02921, July 2017): <br>
 <img src="./EDSR.png" alt="alt text" width="500" height="350"> <br>
 SRGAN (C. Ledig, L. Theis, F. Huszar, et al (2016). Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network. arXiv:1609.04802, Sep 2016.): <br>
-<img src="./SRGAN.png" alt="alt text" width="1000" height="500"> <br>
+<img src="./SRGAN.png" alt="alt text" width="1000" height="400"> <br>
 SR3 (Saharia, C., Ho, J., Chan, W., Salimans, T., Fleet, D. J., & Norouzi, M. (2021). Image super-resolution via iterative refinement. ArXiv:2104. 07636): <br>
 <img src="./diffusion.png" alt="alt text" width="800" height="200"> <br>
 <img src="./diffusion2.png" alt="alt text" width="1000" height="350"> <br>
@@ -29,6 +29,6 @@ Some representative output images of all three models are listed below. It can b
 <br>
 **Quantitative performance:**. <br>
 For quantitative performance evaluation, our results supports LPIPS as the best evaluation metric to match human perception, at least for this application. <br>
-<img src="./table_model_performance.png" alt="alt text" width="1000" height="250"> <br>
+<img src="./table_model_performance.png" alt="alt text" width="1000" height="200"> <br>
 
 
